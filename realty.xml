@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-06-15T11:21:50+00:00</generation-date>
+  <generation-date>2026-06-15T00:00:00+00:00</generation-date>
   <offer internal-id="ul_timura_frunze_d_8_5_kv_5_4b796d_studiya_2">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
+    <creation-date>2026-06-15T00:00:00+00:00</creation-date>
     <studio>true</studio>
     <location>
       <country>Россия</country>
       <locality-name>Москва</locality-name>
       <address>ул. Тимура Фрунзе, д. 8/5, кв. 5</address>
+      <apartment>5</apartment>
       <metro>
         <name>Парк Культуры</name>
       </metro>
@@ -46,8 +48,8 @@
 Телефон: 8 800 600-35-32</description>
     <sales-agent>
       <organization>Метры</organization>
-      <phone>8 800 600-35-32</phone>
-      <category>застройщик</category>
+      <phone>+78006003532</phone>
+      <category>агентство</category>
       <email>info@metry.moscow</email>
     </sales-agent>
   </offer>
@@ -55,11 +57,13 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
+    <creation-date>2026-06-15T00:00:00+00:00</creation-date>
     <studio>true</studio>
     <location>
       <country>Россия</country>
       <locality-name>Москва</locality-name>
       <address>ул. Тимура Фрунзе, д. 8/5, кв. 5</address>
+      <apartment>5</apartment>
       <metro>
         <name>Парк Культуры</name>
       </metro>
@@ -96,8 +100,8 @@
 Телефон: 8 800 600-35-32</description>
     <sales-agent>
       <organization>Метры</organization>
-      <phone>8 800 600-35-32</phone>
-      <category>застройщик</category>
+      <phone>+78006003532</phone>
+      <category>агентство</category>
       <email>info@metry.moscow</email>
     </sales-agent>
   </offer>
@@ -105,11 +109,13 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
+    <creation-date>2026-06-15T00:00:00+00:00</creation-date>
     <studio>true</studio>
     <location>
       <country>Россия</country>
       <locality-name>Москва</locality-name>
       <address>Страстной бульвар, д. 4, стр. 5, кв. 4</address>
+      <apartment>4</apartment>
       <metro>
         <name>Чеховская</name>
       </metro>
@@ -146,8 +152,8 @@
 Телефон: 8 800 600-35-32</description>
     <sales-agent>
       <organization>Метры</organization>
-      <phone>8 800 600-35-32</phone>
-      <category>застройщик</category>
+      <phone>+78006003532</phone>
+      <category>агентство</category>
       <email>info@metry.moscow</email>
     </sales-agent>
   </offer>
@@ -155,11 +161,13 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
+    <creation-date>2026-06-15T00:00:00+00:00</creation-date>
     <studio>true</studio>
     <location>
       <country>Россия</country>
       <locality-name>Москва</locality-name>
       <address>Страстной бульвар, д. 4, стр. 3, кв. 48</address>
+      <apartment>48</apartment>
       <metro>
         <name>Чеховская</name>
       </metro>
@@ -198,8 +206,8 @@
 Телефон: 8 800 600-35-32</description>
     <sales-agent>
       <organization>Метры</organization>
-      <phone>8 800 600-35-32</phone>
-      <category>застройщик</category>
+      <phone>+78006003532</phone>
+      <category>агентство</category>
       <email>info@metry.moscow</email>
     </sales-agent>
   </offer>
@@ -207,11 +215,13 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
+    <creation-date>2026-06-15T00:00:00+00:00</creation-date>
     <studio>true</studio>
     <location>
       <country>Россия</country>
       <locality-name>Москва</locality-name>
       <address>Страстной бульвар, д. 4, стр. 3, кв. 48</address>
+      <apartment>48</apartment>
       <metro>
         <name>Чеховская</name>
       </metro>
@@ -250,8 +260,8 @@
 Телефон: 8 800 600-35-32</description>
     <sales-agent>
       <organization>Метры</organization>
-      <phone>8 800 600-35-32</phone>
-      <category>застройщик</category>
+      <phone>+78006003532</phone>
+      <category>агентство</category>
       <email>info@metry.moscow</email>
     </sales-agent>
   </offer>
@@ -259,11 +269,13 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
+    <creation-date>2026-06-15T00:00:00+00:00</creation-date>
     <studio>true</studio>
     <location>
       <country>Россия</country>
       <locality-name>Москва</locality-name>
       <address>Страстной бульвар, д. 4, стр. 3, кв. 48</address>
+      <apartment>48</apartment>
       <metro>
         <name>Чеховская</name>
       </metro>
@@ -302,8 +314,8 @@
 Телефон: 8 800 600-35-32</description>
     <sales-agent>
       <organization>Метры</organization>
-      <phone>8 800 600-35-32</phone>
-      <category>застройщик</category>
+      <phone>+78006003532</phone>
+      <category>агентство</category>
       <email>info@metry.moscow</email>
     </sales-agent>
   </offer>
@@ -311,11 +323,13 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
+    <creation-date>2026-06-15T00:00:00+00:00</creation-date>
     <studio>true</studio>
     <location>
       <country>Россия</country>
       <locality-name>Москва</locality-name>
       <address>Страстной бульвар, д. 4, стр. 3, кв. 48</address>
+      <apartment>48</apartment>
       <metro>
         <name>Чеховская</name>
       </metro>
@@ -354,8 +368,8 @@
 Телефон: 8 800 600-35-32</description>
     <sales-agent>
       <organization>Метры</organization>
-      <phone>8 800 600-35-32</phone>
-      <category>застройщик</category>
+      <phone>+78006003532</phone>
+      <category>агентство</category>
       <email>info@metry.moscow</email>
     </sales-agent>
   </offer>
@@ -363,11 +377,13 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
+    <creation-date>2026-06-15T00:00:00+00:00</creation-date>
     <studio>true</studio>
     <location>
       <country>Россия</country>
       <locality-name>Москва</locality-name>
       <address>Страстной бульвар, д. 4, стр. 3, кв. 48</address>
+      <apartment>48</apartment>
       <metro>
         <name>Чеховская</name>
       </metro>
@@ -406,8 +422,8 @@
 Телефон: 8 800 600-35-32</description>
     <sales-agent>
       <organization>Метры</organization>
-      <phone>8 800 600-35-32</phone>
-      <category>застройщик</category>
+      <phone>+78006003532</phone>
+      <category>агентство</category>
       <email>info@metry.moscow</email>
     </sales-agent>
   </offer>
@@ -415,11 +431,13 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
+    <creation-date>2026-06-15T00:00:00+00:00</creation-date>
     <studio>true</studio>
     <location>
       <country>Россия</country>
       <locality-name>Москва</locality-name>
       <address>Страстной бульвар, д. 4, стр. 3, кв. 48</address>
+      <apartment>48</apartment>
       <metro>
         <name>Чеховская</name>
       </metro>
@@ -458,8 +476,8 @@
 Телефон: 8 800 600-35-32</description>
     <sales-agent>
       <organization>Метры</organization>
-      <phone>8 800 600-35-32</phone>
-      <category>застройщик</category>
+      <phone>+78006003532</phone>
+      <category>агентство</category>
       <email>info@metry.moscow</email>
     </sales-agent>
   </offer>
@@ -467,11 +485,13 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
+    <creation-date>2026-06-15T00:00:00+00:00</creation-date>
     <studio>true</studio>
     <location>
       <country>Россия</country>
       <locality-name>Москва</locality-name>
       <address>Страстной бульвар, д. 4, стр. 3, кв. 52</address>
+      <apartment>52</apartment>
       <metro>
         <name>Чеховская</name>
       </metro>
@@ -510,8 +530,8 @@
 Телефон: 8 800 600-35-32</description>
     <sales-agent>
       <organization>Метры</organization>
-      <phone>8 800 600-35-32</phone>
-      <category>застройщик</category>
+      <phone>+78006003532</phone>
+      <category>агентство</category>
       <email>info@metry.moscow</email>
     </sales-agent>
   </offer>
@@ -519,11 +539,13 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
+    <creation-date>2026-06-15T00:00:00+00:00</creation-date>
     <studio>true</studio>
     <location>
       <country>Россия</country>
       <locality-name>Москва</locality-name>
       <address>Страстной бульвар, д. 4, стр. 3, кв. 52</address>
+      <apartment>52</apartment>
       <metro>
         <name>Чеховская</name>
       </metro>
@@ -562,8 +584,8 @@
 Телефон: 8 800 600-35-32</description>
     <sales-agent>
       <organization>Метры</organization>
-      <phone>8 800 600-35-32</phone>
-      <category>застройщик</category>
+      <phone>+78006003532</phone>
+      <category>агентство</category>
       <email>info@metry.moscow</email>
     </sales-agent>
   </offer>
@@ -571,11 +593,13 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
+    <creation-date>2026-06-15T00:00:00+00:00</creation-date>
     <studio>true</studio>
     <location>
       <country>Россия</country>
       <locality-name>Москва</locality-name>
       <address>Страстной бульвар, д. 4, стр. 3, кв. 52</address>
+      <apartment>52</apartment>
       <metro>
         <name>Чеховская</name>
       </metro>
@@ -614,8 +638,8 @@
 Телефон: 8 800 600-35-32</description>
     <sales-agent>
       <organization>Метры</organization>
-      <phone>8 800 600-35-32</phone>
-      <category>застройщик</category>
+      <phone>+78006003532</phone>
+      <category>агентство</category>
       <email>info@metry.moscow</email>
     </sales-agent>
   </offer>
@@ -623,11 +647,13 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
+    <creation-date>2026-06-15T00:00:00+00:00</creation-date>
     <studio>true</studio>
     <location>
       <country>Россия</country>
       <locality-name>Москва</locality-name>
       <address>Страстной бульвар, д. 4, стр. 3, кв. 52</address>
+      <apartment>52</apartment>
       <metro>
         <name>Чеховская</name>
       </metro>
@@ -666,8 +692,8 @@
 Телефон: 8 800 600-35-32</description>
     <sales-agent>
       <organization>Метры</organization>
-      <phone>8 800 600-35-32</phone>
-      <category>застройщик</category>
+      <phone>+78006003532</phone>
+      <category>агентство</category>
       <email>info@metry.moscow</email>
     </sales-agent>
   </offer>
@@ -675,11 +701,13 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
+    <creation-date>2026-06-15T00:00:00+00:00</creation-date>
     <studio>true</studio>
     <location>
       <country>Россия</country>
       <locality-name>Москва</locality-name>
       <address>Страстной бульвар, д. 4, стр. 3, кв. 52</address>
+      <apartment>52</apartment>
       <metro>
         <name>Чеховская</name>
       </metro>
@@ -718,8 +746,8 @@
 Телефон: 8 800 600-35-32</description>
     <sales-agent>
       <organization>Метры</organization>
-      <phone>8 800 600-35-32</phone>
-      <category>застройщик</category>
+      <phone>+78006003532</phone>
+      <category>агентство</category>
       <email>info@metry.moscow</email>
     </sales-agent>
   </offer>
@@ -727,11 +755,13 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
+    <creation-date>2026-06-15T00:00:00+00:00</creation-date>
     <studio>true</studio>
     <location>
       <country>Россия</country>
       <locality-name>Москва</locality-name>
       <address>Страстной бульвар, д. 4, стр. 3, кв. 52</address>
+      <apartment>52</apartment>
       <metro>
         <name>Чеховская</name>
       </metro>
@@ -770,8 +800,8 @@
 Телефон: 8 800 600-35-32</description>
     <sales-agent>
       <organization>Метры</organization>
-      <phone>8 800 600-35-32</phone>
-      <category>застройщик</category>
+      <phone>+78006003532</phone>
+      <category>агентство</category>
       <email>info@metry.moscow</email>
     </sales-agent>
   </offer>
@@ -779,11 +809,13 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
+    <creation-date>2026-06-15T00:00:00+00:00</creation-date>
     <studio>true</studio>
     <location>
       <country>Россия</country>
       <locality-name>Москва</locality-name>
       <address>Страстной бульвар, д. 4, стр. 3, кв. 17</address>
+      <apartment>17</apartment>
       <metro>
         <name>Чеховская</name>
       </metro>
@@ -820,8 +852,8 @@
 Телефон: 8 800 600-35-32</description>
     <sales-agent>
       <organization>Метры</organization>
-      <phone>8 800 600-35-32</phone>
-      <category>застройщик</category>
+      <phone>+78006003532</phone>
+      <category>агентство</category>
       <email>info@metry.moscow</email>
     </sales-agent>
   </offer>
@@ -829,11 +861,13 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
+    <creation-date>2026-06-15T00:00:00+00:00</creation-date>
     <studio>true</studio>
     <location>
       <country>Россия</country>
       <locality-name>Москва</locality-name>
       <address>Большой Сергиевский пер., д. 20, кв. 4</address>
+      <apartment>4</apartment>
       <metro>
         <name>Трубная</name>
       </metro>
@@ -870,8 +904,8 @@
 Телефон: 8 800 600-35-32</description>
     <sales-agent>
       <organization>Метры</organization>
-      <phone>8 800 600-35-32</phone>
-      <category>застройщик</category>
+      <phone>+78006003532</phone>
+      <category>агентство</category>
       <email>info@metry.moscow</email>
     </sales-agent>
   </offer>
@@ -879,11 +913,13 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
+    <creation-date>2026-06-15T00:00:00+00:00</creation-date>
     <studio>true</studio>
     <location>
       <country>Россия</country>
       <locality-name>Москва</locality-name>
       <address>Большой Сергиевский пер., д. 20, кв. 4</address>
+      <apartment>4</apartment>
       <metro>
         <name>Трубная</name>
       </metro>
@@ -920,8 +956,8 @@
 Телефон: 8 800 600-35-32</description>
     <sales-agent>
       <organization>Метры</organization>
-      <phone>8 800 600-35-32</phone>
-      <category>застройщик</category>
+      <phone>+78006003532</phone>
+      <category>агентство</category>
       <email>info@metry.moscow</email>
     </sales-agent>
   </offer>
@@ -929,11 +965,13 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
+    <creation-date>2026-06-15T00:00:00+00:00</creation-date>
     <studio>true</studio>
     <location>
       <country>Россия</country>
       <locality-name>Москва</locality-name>
       <address>Большой Сергиевский пер., д. 20, кв. 4</address>
+      <apartment>4</apartment>
       <metro>
         <name>Трубная</name>
       </metro>
@@ -970,57 +1008,8 @@
 Телефон: 8 800 600-35-32</description>
     <sales-agent>
       <organization>Метры</organization>
-      <phone>8 800 600-35-32</phone>
-      <category>застройщик</category>
-      <email>info@metry.moscow</email>
-    </sales-agent>
-  </offer>
-  <offer internal-id="ul_bolshaya_tatarskaya_d_20_str_2_kv_18_5328a2_studiya_celikom">
-    <type>продажа</type>
-    <property-type>жилая</property-type>
-    <category>квартира</category>
-    <location>
-      <country>Россия</country>
-      <locality-name>Москва</locality-name>
-      <address>ул. Большая Татарская, д. 20, стр. 2, кв. 18</address>
-      <metro>
-        <name>Новокузнецкая</name>
-      </metro>
-    </location>
-    <price>
-      <value>127000000</value>
-      <currency>RUB</currency>
-    </price>
-    <area>
-      <value>131.8</value>
-      <unit>кв.м</unit>
-    </area>
-    <floor>2</floor>
-    <floors-total>4</floors-total>
-    <ceiling-height>3.2</ceiling-height>
-    <image>https://drobotmax.github.io/metry-feeds/photos/ul_bolshaya_tatarskaya_d_20_str_2_kv_18_5328a2/photo_01.jpg</image>
-    <image>https://drobotmax.github.io/metry-feeds/photos/ul_bolshaya_tatarskaya_d_20_str_2_kv_18_5328a2/photo_02.jpg</image>
-    <image>https://drobotmax.github.io/metry-feeds/photos/ul_bolshaya_tatarskaya_d_20_str_2_kv_18_5328a2/photo_03.jpg</image>
-    <image>https://drobotmax.github.io/metry-feeds/photos/ul_bolshaya_tatarskaya_d_20_str_2_kv_18_5328a2/photo_04.jpg</image>
-    <image>https://drobotmax.github.io/metry-feeds/photos/ul_bolshaya_tatarskaya_d_20_str_2_kv_18_5328a2/photo_05.jpg</image>
-    <image>https://drobotmax.github.io/metry-feeds/photos/ul_bolshaya_tatarskaya_d_20_str_2_kv_18_5328a2/photo_06.jpg</image>
-    <image>https://drobotmax.github.io/metry-feeds/photos/ul_bolshaya_tatarskaya_d_20_str_2_kv_18_5328a2/photo_07.jpg</image>
-    <image>https://drobotmax.github.io/metry-feeds/photos/ul_bolshaya_tatarskaya_d_20_str_2_kv_18_5328a2/photo_08.jpg</image>
-    <description>Готовый объект в историческом центре Москвы. Дом сдан, отдельный кадастровый номер, право собственности подтверждено (ЕГРН).
-
-- Площадь: 131.8 м² (общая)
-- Потолки: 3.2 м
-- Этаж: 2 из 4
-- Метро: Новокузнецкая (Замоскворечье)
-- Статус: Сдан
-
-Локация в центре Москвы с устойчивым арендным спросом. Поможем с подбором и оформлением сделки.
-
-Телефон: 8 800 600-35-32</description>
-    <sales-agent>
-      <organization>Метры</organization>
-      <phone>8 800 600-35-32</phone>
-      <category>застройщик</category>
+      <phone>+78006003532</phone>
+      <category>агентство</category>
       <email>info@metry.moscow</email>
     </sales-agent>
   </offer>
@@ -1028,11 +1017,13 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
+    <creation-date>2026-06-15T00:00:00+00:00</creation-date>
     <studio>true</studio>
     <location>
       <country>Россия</country>
       <locality-name>Москва</locality-name>
       <address>Девяткин пер., д. 2, кв. 8</address>
+      <apartment>8</apartment>
       <metro>
         <name>Чистые пруды</name>
       </metro>
@@ -1074,93 +1065,8 @@
 Телефон: 8 800 600-35-32</description>
     <sales-agent>
       <organization>Метры</organization>
-      <phone>8 800 600-35-32</phone>
-      <category>застройщик</category>
-      <email>info@metry.moscow</email>
-    </sales-agent>
-  </offer>
-  <offer internal-id="ul_bolshaya_dmitrovka_d_20_str_2_kv_26_19a5b0_studiya_4">
-    <type>продажа</type>
-    <property-type>жилая</property-type>
-    <category>квартира</category>
-    <studio>true</studio>
-    <location>
-      <country>Россия</country>
-      <locality-name>Москва</locality-name>
-      <address>ул. Большая Дмитровка, д. 20, стр. 2, кв. 26</address>
-      <metro>
-        <name>Чеховская</name>
-      </metro>
-    </location>
-    <price>
-      <value>22000000</value>
-      <currency>RUB</currency>
-    </price>
-    <area>
-      <value>17.2</value>
-      <unit>кв.м</unit>
-    </area>
-    <floor>1</floor>
-    <floors-total>5</floors-total>
-    <ceiling-height>3.5</ceiling-height>
-    <image>https://drobotmax.github.io/metry-feeds/photos/ul_bolshaya_dmitrovka_d_20_str_2_kv_26_19a5b0/plan_01.jpg</image>
-    <description>Готовый объект в историческом центре Москвы. Дом сдан, отдельный кадастровый номер, право собственности подтверждено (ЕГРН).
-
-- Площадь: 17.2 м² (общая)
-- Потолки: 3.5 м
-- Этаж: 1 из 5
-- Метро: Чеховская (Тверская/Чеховская)
-- Статус: Сдан
-
-Локация в центре Москвы с устойчивым арендным спросом. Поможем с подбором и оформлением сделки.
-
-Телефон: 8 800 600-35-32</description>
-    <sales-agent>
-      <organization>Метры</organization>
-      <phone>8 800 600-35-32</phone>
-      <category>застройщик</category>
-      <email>info@metry.moscow</email>
-    </sales-agent>
-  </offer>
-  <offer internal-id="ul_tverskaya_d_12_str_8_kv_118_dom_solzh_199e5e_studiya_3">
-    <type>продажа</type>
-    <property-type>жилая</property-type>
-    <category>квартира</category>
-    <studio>true</studio>
-    <location>
-      <country>Россия</country>
-      <locality-name>Москва</locality-name>
-      <address>ул. Тверская, д. 12, стр. 8, кв. 118 («Дом Солженицына»)</address>
-      <metro>
-        <name>Тверская</name>
-      </metro>
-    </location>
-    <price>
-      <value>22000000</value>
-      <currency>RUB</currency>
-    </price>
-    <area>
-      <value>18.0</value>
-      <unit>кв.м</unit>
-    </area>
-    <floor>2</floor>
-    <floors-total>6</floors-total>
-    <ceiling-height>3.5</ceiling-height>
-    <description>Готовый объект в историческом центре Москвы. Дом сдан, отдельный кадастровый номер, право собственности подтверждено (ЕГРН).
-
-- Площадь: 18 м² (общая)
-- Потолки: 3.5 м
-- Этаж: 2 из 6
-- Метро: Тверская (Тверская/Чеховская)
-- Статус: Сдан
-
-Локация в центре Москвы с устойчивым арендным спросом. Поможем с подбором и оформлением сделки.
-
-Телефон: 8 800 600-35-32</description>
-    <sales-agent>
-      <organization>Метры</organization>
-      <phone>8 800 600-35-32</phone>
-      <category>застройщик</category>
+      <phone>+78006003532</phone>
+      <category>агентство</category>
       <email>info@metry.moscow</email>
     </sales-agent>
   </offer>
@@ -1168,11 +1074,13 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
+    <creation-date>2026-06-15T00:00:00+00:00</creation-date>
     <studio>true</studio>
     <location>
       <country>Россия</country>
       <locality-name>Москва</locality-name>
       <address>ул. Красина, д. 7, стр. 1, кв. 138</address>
+      <apartment>138</apartment>
       <metro>
         <name>Маяковская</name>
       </metro>
@@ -1209,96 +1117,8 @@
 Телефон: 8 800 600-35-32</description>
     <sales-agent>
       <organization>Метры</organization>
-      <phone>8 800 600-35-32</phone>
-      <category>застройщик</category>
-      <email>info@metry.moscow</email>
-    </sales-agent>
-  </offer>
-  <offer internal-id="prechistenskij_per_22_4_kv_2_a0af9a_studiya_2a">
-    <type>продажа</type>
-    <property-type>жилая</property-type>
-    <category>квартира</category>
-    <location>
-      <country>Россия</country>
-      <locality-name>Москва</locality-name>
-      <address>Пречистенский пер. 22/4, кв. 2</address>
-      <metro>
-        <name>Кропоткинская</name>
-      </metro>
-    </location>
-    <price>
-      <value>85500000</value>
-      <currency>RUB</currency>
-    </price>
-    <area>
-      <value>81.24</value>
-      <unit>кв.м</unit>
-    </area>
-    <floor>1</floor>
-    <floors-total>5</floors-total>
-    <ceiling-height>3.5</ceiling-height>
-    <image>https://drobotmax.github.io/metry-feeds/photos/prechistenskij_per_22_4_kv_2_a0af9a/plan_01.jpg</image>
-    <image>https://drobotmax.github.io/metry-feeds/photos/prechistenskij_per_22_4_kv_2_a0af9a/plan_02.jpg</image>
-    <image>https://drobotmax.github.io/metry-feeds/photos/prechistenskij_per_22_4_kv_2_a0af9a/plan_03.jpg</image>
-    <image>https://drobotmax.github.io/metry-feeds/photos/prechistenskij_per_22_4_kv_2_a0af9a/plan_04.jpg</image>
-    <description>Объект в историческом центре Москвы. Передача ключей — 01.09.2026. Отдельный кадастровый номер.
-
-- Потолки: 3.5 м
-- Этаж: 1 из 5
-- Метро: Кропоткинская (Пречистенка)
-- Статус: Передача ключей 01.09.2026
-
-Локация в центре Москвы с устойчивым арендным спросом. Поможем с подбором и оформлением сделки.
-
-Телефон: 8 800 600-35-32</description>
-    <sales-agent>
-      <organization>Метры</organization>
-      <phone>8 800 600-35-32</phone>
-      <category>застройщик</category>
-      <email>info@metry.moscow</email>
-    </sales-agent>
-  </offer>
-  <offer internal-id="prechistenskij_per_22_4_kv_2_a0af9a_studiya_2b">
-    <type>продажа</type>
-    <property-type>жилая</property-type>
-    <category>квартира</category>
-    <location>
-      <country>Россия</country>
-      <locality-name>Москва</locality-name>
-      <address>Пречистенский пер. 22/4, кв. 2</address>
-      <metro>
-        <name>Кропоткинская</name>
-      </metro>
-    </location>
-    <price>
-      <value>75500000</value>
-      <currency>RUB</currency>
-    </price>
-    <area>
-      <value>70.49</value>
-      <unit>кв.м</unit>
-    </area>
-    <floor>1</floor>
-    <floors-total>5</floors-total>
-    <ceiling-height>3.5</ceiling-height>
-    <image>https://drobotmax.github.io/metry-feeds/photos/prechistenskij_per_22_4_kv_2_a0af9a/plan_01.jpg</image>
-    <image>https://drobotmax.github.io/metry-feeds/photos/prechistenskij_per_22_4_kv_2_a0af9a/plan_02.jpg</image>
-    <image>https://drobotmax.github.io/metry-feeds/photos/prechistenskij_per_22_4_kv_2_a0af9a/plan_03.jpg</image>
-    <image>https://drobotmax.github.io/metry-feeds/photos/prechistenskij_per_22_4_kv_2_a0af9a/plan_04.jpg</image>
-    <description>Объект в историческом центре Москвы. Передача ключей — 01.09.2026. Отдельный кадастровый номер.
-
-- Потолки: 3.5 м
-- Этаж: 1 из 5
-- Метро: Кропоткинская (Пречистенка)
-- Статус: Передача ключей 01.09.2026
-
-Локация в центре Москвы с устойчивым арендным спросом. Поможем с подбором и оформлением сделки.
-
-Телефон: 8 800 600-35-32</description>
-    <sales-agent>
-      <organization>Метры</organization>
-      <phone>8 800 600-35-32</phone>
-      <category>застройщик</category>
+      <phone>+78006003532</phone>
+      <category>агентство</category>
       <email>info@metry.moscow</email>
     </sales-agent>
   </offer>
