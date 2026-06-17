@@ -12,6 +12,8 @@
       <locality-name>Москва</locality-name>
       <address>ул. Тимура Фрунзе, д. 8/5, кв. 5</address>
       <apartment>5</apartment>
+      <latitude>55.7335717</latitude>
+      <longitude>37.5916529</longitude>
       <metro>
         <name>Парк Культуры</name>
       </metro>
@@ -64,6 +66,8 @@
       <locality-name>Москва</locality-name>
       <address>ул. Тимура Фрунзе, д. 8/5, кв. 5</address>
       <apartment>5</apartment>
+      <latitude>55.7335717</latitude>
+      <longitude>37.5916529</longitude>
       <metro>
         <name>Парк Культуры</name>
       </metro>
@@ -116,6 +120,8 @@
       <locality-name>Москва</locality-name>
       <address>Страстной бульвар, д. 4, стр. 5, кв. 4</address>
       <apartment>4</apartment>
+      <latitude>55.7647544</latitude>
+      <longitude>37.6087786</longitude>
       <metro>
         <name>Чеховская</name>
       </metro>
@@ -168,6 +174,8 @@
       <locality-name>Москва</locality-name>
       <address>Страстной бульвар, д. 4, стр. 3, кв. 48</address>
       <apartment>48</apartment>
+      <latitude>55.7650046</latitude>
+      <longitude>37.6086229</longitude>
       <metro>
         <name>Чеховская</name>
       </metro>
@@ -222,6 +230,8 @@
       <locality-name>Москва</locality-name>
       <address>Страстной бульвар, д. 4, стр. 3, кв. 48</address>
       <apartment>48</apartment>
+      <latitude>55.7650046</latitude>
+      <longitude>37.6086229</longitude>
       <metro>
         <name>Чеховская</name>
       </metro>
@@ -276,6 +286,8 @@
       <locality-name>Москва</locality-name>
       <address>Страстной бульвар, д. 4, стр. 3, кв. 48</address>
       <apartment>48</apartment>
+      <latitude>55.7650046</latitude>
+      <longitude>37.6086229</longitude>
       <metro>
         <name>Чеховская</name>
       </metro>
@@ -330,6 +342,8 @@
       <locality-name>Москва</locality-name>
       <address>Страстной бульвар, д. 4, стр. 3, кв. 48</address>
       <apartment>48</apartment>
+      <latitude>55.7650046</latitude>
+      <longitude>37.6086229</longitude>
       <metro>
         <name>Чеховская</name>
       </metro>
@@ -384,6 +398,8 @@
       <locality-name>Москва</locality-name>
       <address>Страстной бульвар, д. 4, стр. 3, кв. 48</address>
       <apartment>48</apartment>
+      <latitude>55.7650046</latitude>
+      <longitude>37.6086229</longitude>
       <metro>
         <name>Чеховская</name>
       </metro>
@@ -438,6 +454,8 @@
       <locality-name>Москва</locality-name>
       <address>Страстной бульвар, д. 4, стр. 3, кв. 48</address>
       <apartment>48</apartment>
+      <latitude>55.7650046</latitude>
+      <longitude>37.6086229</longitude>
       <metro>
         <name>Чеховская</name>
       </metro>
@@ -492,6 +510,8 @@
       <locality-name>Москва</locality-name>
       <address>Страстной бульвар, д. 4, стр. 3, кв. 52</address>
       <apartment>52</apartment>
+      <latitude>55.7650046</latitude>
+      <longitude>37.6086229</longitude>
       <metro>
         <name>Чеховская</name>
       </metro>
@@ -546,6 +566,8 @@
       <locality-name>Москва</locality-name>
       <address>Страстной бульвар, д. 4, стр. 3, кв. 52</address>
       <apartment>52</apartment>
+      <latitude>55.7650046</latitude>
+      <longitude>37.6086229</longitude>
       <metro>
         <name>Чеховская</name>
       </metro>
@@ -600,6 +622,8 @@
       <locality-name>Москва</locality-name>
       <address>Страстной бульвар, д. 4, стр. 3, кв. 52</address>
       <apartment>52</apartment>
+      <latitude>55.7650046</latitude>
+      <longitude>37.6086229</longitude>
       <metro>
         <name>Чеховская</name>
       </metro>
@@ -654,6 +678,8 @@
       <locality-name>Москва</locality-name>
       <address>Страстной бульвар, д. 4, стр. 3, кв. 52</address>
       <apartment>52</apartment>
+      <latitude>55.7650046</latitude>
+      <longitude>37.6086229</longitude>
       <metro>
         <name>Чеховская</name>
       </metro>
@@ -708,6 +734,8 @@
       <locality-name>Москва</locality-name>
       <address>Страстной бульвар, д. 4, стр. 3, кв. 52</address>
       <apartment>52</apartment>
+      <latitude>55.7650046</latitude>
+      <longitude>37.6086229</longitude>
       <metro>
         <name>Чеховская</name>
       </metro>
@@ -762,6 +790,8 @@
       <locality-name>Москва</locality-name>
       <address>Страстной бульвар, д. 4, стр. 3, кв. 52</address>
       <apartment>52</apartment>
+      <latitude>55.7650046</latitude>
+      <longitude>37.6086229</longitude>
       <metro>
         <name>Чеховская</name>
       </metro>
@@ -816,6 +846,8 @@
       <locality-name>Москва</locality-name>
       <address>Страстной бульвар, д. 4, стр. 3, кв. 17</address>
       <apartment>17</apartment>
+      <latitude>55.7650046</latitude>
+      <longitude>37.6086229</longitude>
       <metro>
         <name>Чеховская</name>
       </metro>
@@ -868,6 +900,8 @@
       <locality-name>Москва</locality-name>
       <address>Большой Сергиевский пер., д. 20, кв. 4</address>
       <apartment>4</apartment>
+      <latitude>55.7683097</latitude>
+      <longitude>37.629095</longitude>
       <metro>
         <name>Трубная</name>
       </metro>
@@ -920,6 +954,8 @@
       <locality-name>Москва</locality-name>
       <address>Большой Сергиевский пер., д. 20, кв. 4</address>
       <apartment>4</apartment>
+      <latitude>55.7683097</latitude>
+      <longitude>37.629095</longitude>
       <metro>
         <name>Трубная</name>
       </metro>
@@ -972,6 +1008,8 @@
       <locality-name>Москва</locality-name>
       <address>Большой Сергиевский пер., д. 20, кв. 4</address>
       <apartment>4</apartment>
+      <latitude>55.7683097</latitude>
+      <longitude>37.629095</longitude>
       <metro>
         <name>Трубная</name>
       </metro>
@@ -1024,6 +1062,8 @@
       <locality-name>Москва</locality-name>
       <address>Девяткин пер., д. 2, кв. 8</address>
       <apartment>8</apartment>
+      <latitude>55.7594025</latitude>
+      <longitude>37.6386232</longitude>
       <metro>
         <name>Чистые пруды</name>
       </metro>
@@ -1081,6 +1121,8 @@
       <locality-name>Москва</locality-name>
       <address>ул. Красина, д. 7, стр. 1, кв. 138</address>
       <apartment>138</apartment>
+      <latitude>55.767118</latitude>
+      <longitude>37.5881557</longitude>
       <metro>
         <name>Маяковская</name>
       </metro>
