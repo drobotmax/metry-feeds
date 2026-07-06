@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-06-23T00:00:00+00:00</generation-date>
+  <generation-date>2026-07-06T11:03:40+00:00</generation-date>
   <offer internal-id="ul_timura_frunze_d_8_5_kv_5_4b796d_studiya_2">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-06-15T00:00:00+00:00</creation-date>
+    <creation-date>2026-06-23T00:00:00+00:00</creation-date>
     <studio>true</studio>
     <location>
       <country>Россия</country>
@@ -19,7 +19,7 @@
       </metro>
     </location>
     <price>
-      <value>23100000</value>
+      <value>24000000</value>
       <currency>RUB</currency>
     </price>
     <area>
@@ -59,7 +59,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-06-15T00:00:00+00:00</creation-date>
+    <creation-date>2026-06-23T00:00:00+00:00</creation-date>
     <studio>true</studio>
     <location>
       <country>Россия</country>
@@ -73,7 +73,7 @@
       </metro>
     </location>
     <price>
-      <value>25300000</value>
+      <value>26000000</value>
       <currency>RUB</currency>
     </price>
     <area>
@@ -113,7 +113,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-06-15T00:00:00+00:00</creation-date>
+    <creation-date>2026-06-23T00:00:00+00:00</creation-date>
     <studio>true</studio>
     <location>
       <country>Россия</country>
@@ -127,7 +127,7 @@
       </metro>
     </location>
     <price>
-      <value>24000000</value>
+      <value>24500000</value>
       <currency>RUB</currency>
     </price>
     <area>
@@ -163,11 +163,65 @@
       <email>metry.moscow@yandex.ru</email>
     </sales-agent>
   </offer>
+  <offer internal-id="strastnoj_bulvar_d_4_str_5_kv_4_95a67b_studiya_3">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-06-23T00:00:00+00:00</creation-date>
+    <studio>true</studio>
+    <location>
+      <country>Россия</country>
+      <locality-name>Москва</locality-name>
+      <address>Страстной бульвар, д. 4, стр. 5, кв. 4</address>
+      <apartment>4</apartment>
+      <latitude>55.7647544</latitude>
+      <longitude>37.6087786</longitude>
+      <metro>
+        <name>Чеховская</name>
+      </metro>
+    </location>
+    <price>
+      <value>22000000</value>
+      <currency>RUB</currency>
+    </price>
+    <area>
+      <value>15.4</value>
+      <unit>кв.м</unit>
+    </area>
+    <floor>2</floor>
+    <floors-total>5</floors-total>
+    <ceiling-height>3.2</ceiling-height>
+    <image>https://drobotmax.github.io/metry-feeds/photos/strastnoj_bulvar_d_4_str_5_kv_4_95a67b/photo_01.jpg</image>
+    <image>https://drobotmax.github.io/metry-feeds/photos/strastnoj_bulvar_d_4_str_5_kv_4_95a67b/photo_02.jpg</image>
+    <image>https://drobotmax.github.io/metry-feeds/photos/strastnoj_bulvar_d_4_str_5_kv_4_95a67b/photo_03.jpg</image>
+    <image>https://drobotmax.github.io/metry-feeds/photos/strastnoj_bulvar_d_4_str_5_kv_4_95a67b/photo_04.jpg</image>
+    <image>https://drobotmax.github.io/metry-feeds/photos/strastnoj_bulvar_d_4_str_5_kv_4_95a67b/photo_05.jpg</image>
+    <image>https://drobotmax.github.io/metry-feeds/photos/strastnoj_bulvar_d_4_str_5_kv_4_95a67b/photo_06.jpg</image>
+    <image>https://drobotmax.github.io/metry-feeds/photos/strastnoj_bulvar_d_4_str_5_kv_4_95a67b/photo_07.jpg</image>
+    <image>https://drobotmax.github.io/metry-feeds/photos/strastnoj_bulvar_d_4_str_5_kv_4_95a67b/photo_08.jpg</image>
+    <description>Готовый объект в историческом центре Москвы. Дом сдан, отдельный кадастровый номер, право собственности подтверждено (ЕГРН).
+
+- Площадь: 15.4 м² (общая)
+- Потолки: 3.2 м
+- Этаж: 2 из 5
+- Метро: Чеховская (Тверская/Чеховская)
+- Статус: Сдан
+
+Локация в центре Москвы с устойчивым арендным спросом. Поможем с подбором и оформлением сделки.
+
+Телефон: 8 495 843-53-81</description>
+    <sales-agent>
+      <organization>Метры</organization>
+      <phone>+74958435381</phone>
+      <category>агентство</category>
+      <email>metry.moscow@yandex.ru</email>
+    </sales-agent>
+  </offer>
   <offer internal-id="strastnoj_bulvar_d_4_str_3_kv_48_524ca7_studiya_1">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-06-15T00:00:00+00:00</creation-date>
+    <creation-date>2026-06-23T00:00:00+00:00</creation-date>
     <studio>true</studio>
     <location>
       <country>Россия</country>
@@ -181,7 +235,7 @@
       </metro>
     </location>
     <price>
-      <value>21000000</value>
+      <value>21500000</value>
       <currency>RUB</currency>
     </price>
     <area>
@@ -201,13 +255,13 @@
     <image>https://drobotmax.github.io/metry-feeds/photos/strastnoj_bulvar_d_4_str_3_kv_48_524ca7/plan_08.jpg</image>
     <image>https://drobotmax.github.io/metry-feeds/photos/strastnoj_bulvar_d_4_str_3_kv_48_524ca7/plan_09.jpg</image>
     <image>https://drobotmax.github.io/metry-feeds/photos/strastnoj_bulvar_d_4_str_3_kv_48_524ca7/plan_10.jpg</image>
-    <description>Объект в историческом центре Москвы. Передача ключей — 30.06.2026. Отдельный кадастровый номер.
+    <description>Объект в историческом центре Москвы. Передача ключей — 31.07.2026. Отдельный кадастровый номер.
 
 - Площадь: 18.7 м² (общая)
 - Потолки: 3.3 м
 - Этаж: 3 из 6
 - Метро: Чеховская (Тверская/Чеховская)
-- Статус: Передача ключей 30.06.2026
+- Статус: Передача ключей 31.07.2026
 
 Локация в центре Москвы с устойчивым арендным спросом. Поможем с подбором и оформлением сделки.
 
@@ -223,7 +277,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-06-15T00:00:00+00:00</creation-date>
+    <creation-date>2026-06-23T00:00:00+00:00</creation-date>
     <studio>true</studio>
     <location>
       <country>Россия</country>
@@ -237,7 +291,7 @@
       </metro>
     </location>
     <price>
-      <value>19850000</value>
+      <value>20400000</value>
       <currency>RUB</currency>
     </price>
     <area>
@@ -257,13 +311,13 @@
     <image>https://drobotmax.github.io/metry-feeds/photos/strastnoj_bulvar_d_4_str_3_kv_48_524ca7/plan_08.jpg</image>
     <image>https://drobotmax.github.io/metry-feeds/photos/strastnoj_bulvar_d_4_str_3_kv_48_524ca7/plan_09.jpg</image>
     <image>https://drobotmax.github.io/metry-feeds/photos/strastnoj_bulvar_d_4_str_3_kv_48_524ca7/plan_10.jpg</image>
-    <description>Объект в историческом центре Москвы. Передача ключей — 30.06.2026. Отдельный кадастровый номер.
+    <description>Объект в историческом центре Москвы. Передача ключей — 31.07.2026. Отдельный кадастровый номер.
 
 - Площадь: 17.5 м² (общая)
 - Потолки: 3.3 м
 - Этаж: 3 из 6
 - Метро: Чеховская (Тверская/Чеховская)
-- Статус: Передача ключей 30.06.2026
+- Статус: Передача ключей 31.07.2026
 
 Локация в центре Москвы с устойчивым арендным спросом. Поможем с подбором и оформлением сделки.
 
@@ -279,7 +333,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-06-15T00:00:00+00:00</creation-date>
+    <creation-date>2026-06-23T00:00:00+00:00</creation-date>
     <studio>true</studio>
     <location>
       <country>Россия</country>
@@ -293,7 +347,7 @@
       </metro>
     </location>
     <price>
-      <value>22000000</value>
+      <value>22400000</value>
       <currency>RUB</currency>
     </price>
     <area>
@@ -313,13 +367,13 @@
     <image>https://drobotmax.github.io/metry-feeds/photos/strastnoj_bulvar_d_4_str_3_kv_48_524ca7/plan_08.jpg</image>
     <image>https://drobotmax.github.io/metry-feeds/photos/strastnoj_bulvar_d_4_str_3_kv_48_524ca7/plan_09.jpg</image>
     <image>https://drobotmax.github.io/metry-feeds/photos/strastnoj_bulvar_d_4_str_3_kv_48_524ca7/plan_10.jpg</image>
-    <description>Объект в историческом центре Москвы. Передача ключей — 30.06.2026. Отдельный кадастровый номер.
+    <description>Объект в историческом центре Москвы. Передача ключей — 31.07.2026. Отдельный кадастровый номер.
 
 - Площадь: 19.6 м² (общая)
 - Потолки: 3.3 м
 - Этаж: 3 из 6
 - Метро: Чеховская (Тверская/Чеховская)
-- Статус: Передача ключей 30.06.2026
+- Статус: Передача ключей 31.07.2026
 
 Локация в центре Москвы с устойчивым арендным спросом. Поможем с подбором и оформлением сделки.
 
@@ -335,7 +389,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-06-15T00:00:00+00:00</creation-date>
+    <creation-date>2026-06-23T00:00:00+00:00</creation-date>
     <studio>true</studio>
     <location>
       <country>Россия</country>
@@ -349,7 +403,7 @@
       </metro>
     </location>
     <price>
-      <value>23500000</value>
+      <value>24000000</value>
       <currency>RUB</currency>
     </price>
     <area>
@@ -369,13 +423,13 @@
     <image>https://drobotmax.github.io/metry-feeds/photos/strastnoj_bulvar_d_4_str_3_kv_48_524ca7/plan_08.jpg</image>
     <image>https://drobotmax.github.io/metry-feeds/photos/strastnoj_bulvar_d_4_str_3_kv_48_524ca7/plan_09.jpg</image>
     <image>https://drobotmax.github.io/metry-feeds/photos/strastnoj_bulvar_d_4_str_3_kv_48_524ca7/plan_10.jpg</image>
-    <description>Объект в историческом центре Москвы. Передача ключей — 30.06.2026. Отдельный кадастровый номер.
+    <description>Объект в историческом центре Москвы. Передача ключей — 31.07.2026. Отдельный кадастровый номер.
 
 - Площадь: 22.2 м² (общая)
 - Потолки: 3.3 м
 - Этаж: 3 из 6
 - Метро: Чеховская (Тверская/Чеховская)
-- Статус: Передача ключей 30.06.2026
+- Статус: Передача ключей 31.07.2026
 
 Локация в центре Москвы с устойчивым арендным спросом. Поможем с подбором и оформлением сделки.
 
@@ -391,7 +445,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-06-15T00:00:00+00:00</creation-date>
+    <creation-date>2026-06-23T00:00:00+00:00</creation-date>
     <studio>true</studio>
     <location>
       <country>Россия</country>
@@ -405,7 +459,7 @@
       </metro>
     </location>
     <price>
-      <value>20700000</value>
+      <value>21400000</value>
       <currency>RUB</currency>
     </price>
     <area>
@@ -425,13 +479,13 @@
     <image>https://drobotmax.github.io/metry-feeds/photos/strastnoj_bulvar_d_4_str_3_kv_48_524ca7/plan_08.jpg</image>
     <image>https://drobotmax.github.io/metry-feeds/photos/strastnoj_bulvar_d_4_str_3_kv_48_524ca7/plan_09.jpg</image>
     <image>https://drobotmax.github.io/metry-feeds/photos/strastnoj_bulvar_d_4_str_3_kv_48_524ca7/plan_10.jpg</image>
-    <description>Объект в историческом центре Москвы. Передача ключей — 30.06.2026. Отдельный кадастровый номер.
+    <description>Объект в историческом центре Москвы. Передача ключей — 31.07.2026. Отдельный кадастровый номер.
 
 - Площадь: 18.4 м² (общая)
 - Потолки: 3.3 м
 - Этаж: 3 из 6
 - Метро: Чеховская (Тверская/Чеховская)
-- Статус: Передача ключей 30.06.2026
+- Статус: Передача ключей 31.07.2026
 
 Локация в центре Москвы с устойчивым арендным спросом. Поможем с подбором и оформлением сделки.
 
@@ -447,7 +501,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-06-15T00:00:00+00:00</creation-date>
+    <creation-date>2026-06-23T00:00:00+00:00</creation-date>
     <studio>true</studio>
     <location>
       <country>Россия</country>
@@ -461,7 +515,7 @@
       </metro>
     </location>
     <price>
-      <value>22700000</value>
+      <value>23000000</value>
       <currency>RUB</currency>
     </price>
     <area>
@@ -481,13 +535,13 @@
     <image>https://drobotmax.github.io/metry-feeds/photos/strastnoj_bulvar_d_4_str_3_kv_48_524ca7/plan_08.jpg</image>
     <image>https://drobotmax.github.io/metry-feeds/photos/strastnoj_bulvar_d_4_str_3_kv_48_524ca7/plan_09.jpg</image>
     <image>https://drobotmax.github.io/metry-feeds/photos/strastnoj_bulvar_d_4_str_3_kv_48_524ca7/plan_10.jpg</image>
-    <description>Объект в историческом центре Москвы. Передача ключей — 30.06.2026. Отдельный кадастровый номер.
+    <description>Объект в историческом центре Москвы. Передача ключей — 31.07.2026. Отдельный кадастровый номер.
 
 - Площадь: 20.5 м² (общая)
 - Потолки: 3.3 м
 - Этаж: 3 из 6
 - Метро: Чеховская (Тверская/Чеховская)
-- Статус: Передача ключей 30.06.2026
+- Статус: Передача ключей 31.07.2026
 
 Локация в центре Москвы с устойчивым арендным спросом. Поможем с подбором и оформлением сделки.
 
@@ -503,7 +557,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-06-15T00:00:00+00:00</creation-date>
+    <creation-date>2026-06-23T00:00:00+00:00</creation-date>
     <studio>true</studio>
     <location>
       <country>Россия</country>
@@ -517,7 +571,7 @@
       </metro>
     </location>
     <price>
-      <value>20950000</value>
+      <value>21400000</value>
       <currency>RUB</currency>
     </price>
     <area>
@@ -537,13 +591,13 @@
     <image>https://drobotmax.github.io/metry-feeds/photos/strastnoj_bulvar_d_4_str_3_kv_52_defcbe/plan_08.jpg</image>
     <image>https://drobotmax.github.io/metry-feeds/photos/strastnoj_bulvar_d_4_str_3_kv_52_defcbe/plan_09.jpg</image>
     <image>https://drobotmax.github.io/metry-feeds/photos/strastnoj_bulvar_d_4_str_3_kv_52_defcbe/plan_10.jpg</image>
-    <description>Объект в историческом центре Москвы. Передача ключей — 20.07.2026. Отдельный кадастровый номер.
+    <description>Объект в историческом центре Москвы. Передача ключей — 30.08.2026. Отдельный кадастровый номер.
 
 - Площадь: 18.6 м² (общая)
 - Потолки: 3.4 м
 - Этаж: 4 из 6
 - Метро: Чеховская (Тверская/Чеховская)
-- Статус: Передача ключей 20.07.2026
+- Статус: Передача ключей 30.08.2026
 
 Локация в центре Москвы с устойчивым арендным спросом. Поможем с подбором и оформлением сделки.
 
@@ -559,7 +613,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-06-15T00:00:00+00:00</creation-date>
+    <creation-date>2026-06-23T00:00:00+00:00</creation-date>
     <studio>true</studio>
     <location>
       <country>Россия</country>
@@ -573,7 +627,7 @@
       </metro>
     </location>
     <price>
-      <value>20450000</value>
+      <value>21200000</value>
       <currency>RUB</currency>
     </price>
     <area>
@@ -593,13 +647,13 @@
     <image>https://drobotmax.github.io/metry-feeds/photos/strastnoj_bulvar_d_4_str_3_kv_52_defcbe/plan_08.jpg</image>
     <image>https://drobotmax.github.io/metry-feeds/photos/strastnoj_bulvar_d_4_str_3_kv_52_defcbe/plan_09.jpg</image>
     <image>https://drobotmax.github.io/metry-feeds/photos/strastnoj_bulvar_d_4_str_3_kv_52_defcbe/plan_10.jpg</image>
-    <description>Объект в историческом центре Москвы. Передача ключей — 20.07.2026. Отдельный кадастровый номер.
+    <description>Объект в историческом центре Москвы. Передача ключей — 30.08.2026. Отдельный кадастровый номер.
 
 - Площадь: 18.1 м² (общая)
 - Потолки: 3.4 м
 - Этаж: 4 из 6
 - Метро: Чеховская (Тверская/Чеховская)
-- Статус: Передача ключей 20.07.2026
+- Статус: Передача ключей 30.08.2026
 
 Локация в центре Москвы с устойчивым арендным спросом. Поможем с подбором и оформлением сделки.
 
@@ -615,7 +669,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-06-15T00:00:00+00:00</creation-date>
+    <creation-date>2026-06-23T00:00:00+00:00</creation-date>
     <studio>true</studio>
     <location>
       <country>Россия</country>
@@ -629,7 +683,7 @@
       </metro>
     </location>
     <price>
-      <value>21900000</value>
+      <value>22500000</value>
       <currency>RUB</currency>
     </price>
     <area>
@@ -649,13 +703,13 @@
     <image>https://drobotmax.github.io/metry-feeds/photos/strastnoj_bulvar_d_4_str_3_kv_52_defcbe/plan_08.jpg</image>
     <image>https://drobotmax.github.io/metry-feeds/photos/strastnoj_bulvar_d_4_str_3_kv_52_defcbe/plan_09.jpg</image>
     <image>https://drobotmax.github.io/metry-feeds/photos/strastnoj_bulvar_d_4_str_3_kv_52_defcbe/plan_10.jpg</image>
-    <description>Объект в историческом центре Москвы. Передача ключей — 20.07.2026. Отдельный кадастровый номер.
+    <description>Объект в историческом центре Москвы. Передача ключей — 30.08.2026. Отдельный кадастровый номер.
 
 - Площадь: 19.5 м² (общая)
 - Потолки: 3.4 м
 - Этаж: 4 из 6
 - Метро: Чеховская (Тверская/Чеховская)
-- Статус: Передача ключей 20.07.2026
+- Статус: Передача ключей 30.08.2026
 
 Локация в центре Москвы с устойчивым арендным спросом. Поможем с подбором и оформлением сделки.
 
@@ -671,7 +725,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-06-15T00:00:00+00:00</creation-date>
+    <creation-date>2026-06-23T00:00:00+00:00</creation-date>
     <studio>true</studio>
     <location>
       <country>Россия</country>
@@ -705,13 +759,13 @@
     <image>https://drobotmax.github.io/metry-feeds/photos/strastnoj_bulvar_d_4_str_3_kv_52_defcbe/plan_08.jpg</image>
     <image>https://drobotmax.github.io/metry-feeds/photos/strastnoj_bulvar_d_4_str_3_kv_52_defcbe/plan_09.jpg</image>
     <image>https://drobotmax.github.io/metry-feeds/photos/strastnoj_bulvar_d_4_str_3_kv_52_defcbe/plan_10.jpg</image>
-    <description>Объект в историческом центре Москвы. Передача ключей — 20.07.2026. Отдельный кадастровый номер.
+    <description>Объект в историческом центре Москвы. Передача ключей — 30.08.2026. Отдельный кадастровый номер.
 
 - Площадь: 23.6 м² (общая)
 - Потолки: 3.4 м
 - Этаж: 4 из 6
 - Метро: Чеховская (Тверская/Чеховская)
-- Статус: Передача ключей 20.07.2026
+- Статус: Передача ключей 30.08.2026
 
 Локация в центре Москвы с устойчивым арендным спросом. Поможем с подбором и оформлением сделки.
 
@@ -727,7 +781,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-06-15T00:00:00+00:00</creation-date>
+    <creation-date>2026-06-23T00:00:00+00:00</creation-date>
     <studio>true</studio>
     <location>
       <country>Россия</country>
@@ -741,7 +795,7 @@
       </metro>
     </location>
     <price>
-      <value>19600000</value>
+      <value>20500000</value>
       <currency>RUB</currency>
     </price>
     <area>
@@ -761,13 +815,13 @@
     <image>https://drobotmax.github.io/metry-feeds/photos/strastnoj_bulvar_d_4_str_3_kv_52_defcbe/plan_08.jpg</image>
     <image>https://drobotmax.github.io/metry-feeds/photos/strastnoj_bulvar_d_4_str_3_kv_52_defcbe/plan_09.jpg</image>
     <image>https://drobotmax.github.io/metry-feeds/photos/strastnoj_bulvar_d_4_str_3_kv_52_defcbe/plan_10.jpg</image>
-    <description>Объект в историческом центре Москвы. Передача ключей — 20.07.2026. Отдельный кадастровый номер.
+    <description>Объект в историческом центре Москвы. Передача ключей — 30.08.2026. Отдельный кадастровый номер.
 
 - Площадь: 17.4 м² (общая)
 - Потолки: 3.4 м
 - Этаж: 4 из 6
 - Метро: Чеховская (Тверская/Чеховская)
-- Статус: Передача ключей 20.07.2026
+- Статус: Передача ключей 30.08.2026
 
 Локация в центре Москвы с устойчивым арендным спросом. Поможем с подбором и оформлением сделки.
 
@@ -783,7 +837,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-06-15T00:00:00+00:00</creation-date>
+    <creation-date>2026-06-23T00:00:00+00:00</creation-date>
     <studio>true</studio>
     <location>
       <country>Россия</country>
@@ -797,7 +851,7 @@
       </metro>
     </location>
     <price>
-      <value>22300000</value>
+      <value>23000000</value>
       <currency>RUB</currency>
     </price>
     <area>
@@ -817,13 +871,13 @@
     <image>https://drobotmax.github.io/metry-feeds/photos/strastnoj_bulvar_d_4_str_3_kv_52_defcbe/plan_08.jpg</image>
     <image>https://drobotmax.github.io/metry-feeds/photos/strastnoj_bulvar_d_4_str_3_kv_52_defcbe/plan_09.jpg</image>
     <image>https://drobotmax.github.io/metry-feeds/photos/strastnoj_bulvar_d_4_str_3_kv_52_defcbe/plan_10.jpg</image>
-    <description>Объект в историческом центре Москвы. Передача ключей — 20.07.2026. Отдельный кадастровый номер.
+    <description>Объект в историческом центре Москвы. Передача ключей — 30.08.2026. Отдельный кадастровый номер.
 
 - Площадь: 19.9 м² (общая)
 - Потолки: 3.4 м
 - Этаж: 4 из 6
 - Метро: Чеховская (Тверская/Чеховская)
-- Статус: Передача ключей 20.07.2026
+- Статус: Передача ключей 30.08.2026
 
 Локация в центре Москвы с устойчивым арендным спросом. Поможем с подбором и оформлением сделки.
 
@@ -839,7 +893,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-06-15T00:00:00+00:00</creation-date>
+    <creation-date>2026-06-23T00:00:00+00:00</creation-date>
     <studio>true</studio>
     <location>
       <country>Россия</country>
@@ -853,7 +907,7 @@
       </metro>
     </location>
     <price>
-      <value>25400000</value>
+      <value>25500000</value>
       <currency>RUB</currency>
     </price>
     <area>
@@ -893,7 +947,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-06-15T00:00:00+00:00</creation-date>
+    <creation-date>2026-06-23T00:00:00+00:00</creation-date>
     <studio>true</studio>
     <location>
       <country>Россия</country>
@@ -907,61 +961,7 @@
       </metro>
     </location>
     <price>
-      <value>19100000</value>
-      <currency>RUB</currency>
-    </price>
-    <area>
-      <value>16.0</value>
-      <unit>кв.м</unit>
-    </area>
-    <floor>1</floor>
-    <floors-total>3</floors-total>
-    <ceiling-height>3.1</ceiling-height>
-    <image>https://drobotmax.github.io/metry-feeds/photos/bolshoj_sergievskij_per_d_20_kv_4_39bcc6/photo_01.jpg</image>
-    <image>https://drobotmax.github.io/metry-feeds/photos/bolshoj_sergievskij_per_d_20_kv_4_39bcc6/photo_02.jpg</image>
-    <image>https://drobotmax.github.io/metry-feeds/photos/bolshoj_sergievskij_per_d_20_kv_4_39bcc6/photo_03.jpg</image>
-    <image>https://drobotmax.github.io/metry-feeds/photos/bolshoj_sergievskij_per_d_20_kv_4_39bcc6/photo_04.jpg</image>
-    <image>https://drobotmax.github.io/metry-feeds/photos/bolshoj_sergievskij_per_d_20_kv_4_39bcc6/photo_05.jpg</image>
-    <image>https://drobotmax.github.io/metry-feeds/photos/bolshoj_sergievskij_per_d_20_kv_4_39bcc6/photo_06.jpg</image>
-    <image>https://drobotmax.github.io/metry-feeds/photos/bolshoj_sergievskij_per_d_20_kv_4_39bcc6/photo_07.jpg</image>
-    <image>https://drobotmax.github.io/metry-feeds/photos/bolshoj_sergievskij_per_d_20_kv_4_39bcc6/photo_08.jpg</image>
-    <description>Готовый объект в историческом центре Москвы. Дом сдан, отдельный кадастровый номер, право собственности подтверждено (ЕГРН).
-
-- Площадь: 16 м² (общая)
-- Потолки: 3.1 м
-- Этаж: 1 из 3
-- Метро: Трубная (Трубная/Цветной)
-- Статус: Сдан
-
-Локация в центре Москвы с устойчивым арендным спросом. Поможем с подбором и оформлением сделки.
-
-Телефон: 8 495 843-53-81</description>
-    <sales-agent>
-      <organization>Метры</organization>
-      <phone>+74958435381</phone>
-      <category>агентство</category>
-      <email>metry.moscow@yandex.ru</email>
-    </sales-agent>
-  </offer>
-  <offer internal-id="bolshoj_sergievskij_per_d_20_kv_4_39bcc6_studiya_2">
-    <type>продажа</type>
-    <property-type>жилая</property-type>
-    <category>квартира</category>
-    <creation-date>2026-06-15T00:00:00+00:00</creation-date>
-    <studio>true</studio>
-    <location>
-      <country>Россия</country>
-      <locality-name>Москва</locality-name>
-      <address>Большой Сергиевский пер., д. 20, кв. 4</address>
-      <apartment>4</apartment>
-      <latitude>55.7683097</latitude>
-      <longitude>37.629095</longitude>
-      <metro>
-        <name>Трубная</name>
-      </metro>
-    </location>
-    <price>
-      <value>19100000</value>
+      <value>19900000</value>
       <currency>RUB</currency>
     </price>
     <area>
@@ -1001,7 +1001,7 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-06-15T00:00:00+00:00</creation-date>
+    <creation-date>2026-06-23T00:00:00+00:00</creation-date>
     <studio>true</studio>
     <location>
       <country>Россия</country>
@@ -1015,7 +1015,7 @@
       </metro>
     </location>
     <price>
-      <value>18100000</value>
+      <value>18900000</value>
       <currency>RUB</currency>
     </price>
     <area>
@@ -1051,11 +1051,335 @@
       <email>metry.moscow@yandex.ru</email>
     </sales-agent>
   </offer>
+  <offer internal-id="ul_bolshaya_tatarskaya_d_20_str_2_kv_18_5328a2_studiya_1">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-06-23T00:00:00+00:00</creation-date>
+    <studio>true</studio>
+    <location>
+      <country>Россия</country>
+      <locality-name>Москва</locality-name>
+      <address>ул. Большая Татарская, д. 20, стр. 2, кв. 18</address>
+      <apartment>18</apartment>
+      <latitude>55.7401563</latitude>
+      <longitude>37.632637</longitude>
+      <metro>
+        <name>Новокузнецкая</name>
+      </metro>
+    </location>
+    <price>
+      <value>20000000</value>
+      <currency>RUB</currency>
+    </price>
+    <area>
+      <value>18.5</value>
+      <unit>кв.м</unit>
+    </area>
+    <floor>2</floor>
+    <floors-total>4</floors-total>
+    <ceiling-height>3.2</ceiling-height>
+    <image>https://drobotmax.github.io/metry-feeds/photos/ul_bolshaya_tatarskaya_d_20_str_2_kv_18_5328a2/photo_01.jpg</image>
+    <image>https://drobotmax.github.io/metry-feeds/photos/ul_bolshaya_tatarskaya_d_20_str_2_kv_18_5328a2/photo_02.jpg</image>
+    <image>https://drobotmax.github.io/metry-feeds/photos/ul_bolshaya_tatarskaya_d_20_str_2_kv_18_5328a2/photo_03.jpg</image>
+    <image>https://drobotmax.github.io/metry-feeds/photos/ul_bolshaya_tatarskaya_d_20_str_2_kv_18_5328a2/photo_04.jpg</image>
+    <image>https://drobotmax.github.io/metry-feeds/photos/ul_bolshaya_tatarskaya_d_20_str_2_kv_18_5328a2/photo_05.jpg</image>
+    <image>https://drobotmax.github.io/metry-feeds/photos/ul_bolshaya_tatarskaya_d_20_str_2_kv_18_5328a2/photo_06.jpg</image>
+    <image>https://drobotmax.github.io/metry-feeds/photos/ul_bolshaya_tatarskaya_d_20_str_2_kv_18_5328a2/photo_07.jpg</image>
+    <image>https://drobotmax.github.io/metry-feeds/photos/ul_bolshaya_tatarskaya_d_20_str_2_kv_18_5328a2/photo_08.jpg</image>
+    <description>Готовый объект в историческом центре Москвы. Дом сдан, отдельный кадастровый номер, право собственности подтверждено (ЕГРН).
+
+- Площадь: 18.5 м² (общая)
+- Потолки: 3.2 м
+- Этаж: 2 из 4
+- Метро: Новокузнецкая (Замоскворечье)
+- Статус: Сдан
+
+Локация в центре Москвы с устойчивым арендным спросом. Поможем с подбором и оформлением сделки.
+
+Телефон: 8 495 843-53-81</description>
+    <sales-agent>
+      <organization>Метры</organization>
+      <phone>+74958435381</phone>
+      <category>агентство</category>
+      <email>metry.moscow@yandex.ru</email>
+    </sales-agent>
+  </offer>
+  <offer internal-id="ul_bolshaya_tatarskaya_d_20_str_2_kv_18_5328a2_studiya_2">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-06-23T00:00:00+00:00</creation-date>
+    <studio>true</studio>
+    <location>
+      <country>Россия</country>
+      <locality-name>Москва</locality-name>
+      <address>ул. Большая Татарская, д. 20, стр. 2, кв. 18</address>
+      <apartment>18</apartment>
+      <latitude>55.7401563</latitude>
+      <longitude>37.632637</longitude>
+      <metro>
+        <name>Новокузнецкая</name>
+      </metro>
+    </location>
+    <price>
+      <value>24000000</value>
+      <currency>RUB</currency>
+    </price>
+    <area>
+      <value>22.4</value>
+      <unit>кв.м</unit>
+    </area>
+    <floor>2</floor>
+    <floors-total>4</floors-total>
+    <ceiling-height>3.2</ceiling-height>
+    <image>https://drobotmax.github.io/metry-feeds/photos/ul_bolshaya_tatarskaya_d_20_str_2_kv_18_5328a2/photo_01.jpg</image>
+    <image>https://drobotmax.github.io/metry-feeds/photos/ul_bolshaya_tatarskaya_d_20_str_2_kv_18_5328a2/photo_02.jpg</image>
+    <image>https://drobotmax.github.io/metry-feeds/photos/ul_bolshaya_tatarskaya_d_20_str_2_kv_18_5328a2/photo_03.jpg</image>
+    <image>https://drobotmax.github.io/metry-feeds/photos/ul_bolshaya_tatarskaya_d_20_str_2_kv_18_5328a2/photo_04.jpg</image>
+    <image>https://drobotmax.github.io/metry-feeds/photos/ul_bolshaya_tatarskaya_d_20_str_2_kv_18_5328a2/photo_05.jpg</image>
+    <image>https://drobotmax.github.io/metry-feeds/photos/ul_bolshaya_tatarskaya_d_20_str_2_kv_18_5328a2/photo_06.jpg</image>
+    <image>https://drobotmax.github.io/metry-feeds/photos/ul_bolshaya_tatarskaya_d_20_str_2_kv_18_5328a2/photo_07.jpg</image>
+    <image>https://drobotmax.github.io/metry-feeds/photos/ul_bolshaya_tatarskaya_d_20_str_2_kv_18_5328a2/photo_08.jpg</image>
+    <description>Готовый объект в историческом центре Москвы. Дом сдан, отдельный кадастровый номер, право собственности подтверждено (ЕГРН).
+
+- Площадь: 22.4 м² (общая)
+- Потолки: 3.2 м
+- Этаж: 2 из 4
+- Метро: Новокузнецкая (Замоскворечье)
+- Статус: Сдан
+
+Локация в центре Москвы с устойчивым арендным спросом. Поможем с подбором и оформлением сделки.
+
+Телефон: 8 495 843-53-81</description>
+    <sales-agent>
+      <organization>Метры</organization>
+      <phone>+74958435381</phone>
+      <category>агентство</category>
+      <email>metry.moscow@yandex.ru</email>
+    </sales-agent>
+  </offer>
+  <offer internal-id="ul_bolshaya_tatarskaya_d_20_str_2_kv_18_5328a2_studiya_3">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-06-23T00:00:00+00:00</creation-date>
+    <studio>true</studio>
+    <location>
+      <country>Россия</country>
+      <locality-name>Москва</locality-name>
+      <address>ул. Большая Татарская, д. 20, стр. 2, кв. 18</address>
+      <apartment>18</apartment>
+      <latitude>55.7401563</latitude>
+      <longitude>37.632637</longitude>
+      <metro>
+        <name>Новокузнецкая</name>
+      </metro>
+    </location>
+    <price>
+      <value>23000000</value>
+      <currency>RUB</currency>
+    </price>
+    <area>
+      <value>21.2</value>
+      <unit>кв.м</unit>
+    </area>
+    <floor>2</floor>
+    <floors-total>4</floors-total>
+    <ceiling-height>3.2</ceiling-height>
+    <image>https://drobotmax.github.io/metry-feeds/photos/ul_bolshaya_tatarskaya_d_20_str_2_kv_18_5328a2/photo_01.jpg</image>
+    <image>https://drobotmax.github.io/metry-feeds/photos/ul_bolshaya_tatarskaya_d_20_str_2_kv_18_5328a2/photo_02.jpg</image>
+    <image>https://drobotmax.github.io/metry-feeds/photos/ul_bolshaya_tatarskaya_d_20_str_2_kv_18_5328a2/photo_03.jpg</image>
+    <image>https://drobotmax.github.io/metry-feeds/photos/ul_bolshaya_tatarskaya_d_20_str_2_kv_18_5328a2/photo_04.jpg</image>
+    <image>https://drobotmax.github.io/metry-feeds/photos/ul_bolshaya_tatarskaya_d_20_str_2_kv_18_5328a2/photo_05.jpg</image>
+    <image>https://drobotmax.github.io/metry-feeds/photos/ul_bolshaya_tatarskaya_d_20_str_2_kv_18_5328a2/photo_06.jpg</image>
+    <image>https://drobotmax.github.io/metry-feeds/photos/ul_bolshaya_tatarskaya_d_20_str_2_kv_18_5328a2/photo_07.jpg</image>
+    <image>https://drobotmax.github.io/metry-feeds/photos/ul_bolshaya_tatarskaya_d_20_str_2_kv_18_5328a2/photo_08.jpg</image>
+    <description>Готовый объект в историческом центре Москвы. Дом сдан, отдельный кадастровый номер, право собственности подтверждено (ЕГРН).
+
+- Площадь: 21.2 м² (общая)
+- Потолки: 3.2 м
+- Этаж: 2 из 4
+- Метро: Новокузнецкая (Замоскворечье)
+- Статус: Сдан
+
+Локация в центре Москвы с устойчивым арендным спросом. Поможем с подбором и оформлением сделки.
+
+Телефон: 8 495 843-53-81</description>
+    <sales-agent>
+      <organization>Метры</organization>
+      <phone>+74958435381</phone>
+      <category>агентство</category>
+      <email>metry.moscow@yandex.ru</email>
+    </sales-agent>
+  </offer>
+  <offer internal-id="ul_bolshaya_tatarskaya_d_20_str_2_kv_18_5328a2_studiya_4">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-06-23T00:00:00+00:00</creation-date>
+    <studio>true</studio>
+    <location>
+      <country>Россия</country>
+      <locality-name>Москва</locality-name>
+      <address>ул. Большая Татарская, д. 20, стр. 2, кв. 18</address>
+      <apartment>18</apartment>
+      <latitude>55.7401563</latitude>
+      <longitude>37.632637</longitude>
+      <metro>
+        <name>Новокузнецкая</name>
+      </metro>
+    </location>
+    <price>
+      <value>25000000</value>
+      <currency>RUB</currency>
+    </price>
+    <area>
+      <value>27.5</value>
+      <unit>кв.м</unit>
+    </area>
+    <floor>2</floor>
+    <floors-total>4</floors-total>
+    <ceiling-height>3.2</ceiling-height>
+    <image>https://drobotmax.github.io/metry-feeds/photos/ul_bolshaya_tatarskaya_d_20_str_2_kv_18_5328a2/photo_01.jpg</image>
+    <image>https://drobotmax.github.io/metry-feeds/photos/ul_bolshaya_tatarskaya_d_20_str_2_kv_18_5328a2/photo_02.jpg</image>
+    <image>https://drobotmax.github.io/metry-feeds/photos/ul_bolshaya_tatarskaya_d_20_str_2_kv_18_5328a2/photo_03.jpg</image>
+    <image>https://drobotmax.github.io/metry-feeds/photos/ul_bolshaya_tatarskaya_d_20_str_2_kv_18_5328a2/photo_04.jpg</image>
+    <image>https://drobotmax.github.io/metry-feeds/photos/ul_bolshaya_tatarskaya_d_20_str_2_kv_18_5328a2/photo_05.jpg</image>
+    <image>https://drobotmax.github.io/metry-feeds/photos/ul_bolshaya_tatarskaya_d_20_str_2_kv_18_5328a2/photo_06.jpg</image>
+    <image>https://drobotmax.github.io/metry-feeds/photos/ul_bolshaya_tatarskaya_d_20_str_2_kv_18_5328a2/photo_07.jpg</image>
+    <image>https://drobotmax.github.io/metry-feeds/photos/ul_bolshaya_tatarskaya_d_20_str_2_kv_18_5328a2/photo_08.jpg</image>
+    <description>Готовый объект в историческом центре Москвы. Дом сдан, отдельный кадастровый номер, право собственности подтверждено (ЕГРН).
+
+- Площадь: 27.5 м² (общая)
+- Потолки: 3.2 м
+- Этаж: 2 из 4
+- Метро: Новокузнецкая (Замоскворечье)
+- Статус: Сдан
+
+Локация в центре Москвы с устойчивым арендным спросом. Поможем с подбором и оформлением сделки.
+
+Телефон: 8 495 843-53-81</description>
+    <sales-agent>
+      <organization>Метры</organization>
+      <phone>+74958435381</phone>
+      <category>агентство</category>
+      <email>metry.moscow@yandex.ru</email>
+    </sales-agent>
+  </offer>
+  <offer internal-id="ul_bolshaya_tatarskaya_d_20_str_2_kv_18_5328a2_studiya_5">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-06-23T00:00:00+00:00</creation-date>
+    <studio>true</studio>
+    <location>
+      <country>Россия</country>
+      <locality-name>Москва</locality-name>
+      <address>ул. Большая Татарская, д. 20, стр. 2, кв. 18</address>
+      <apartment>18</apartment>
+      <latitude>55.7401563</latitude>
+      <longitude>37.632637</longitude>
+      <metro>
+        <name>Новокузнецкая</name>
+      </metro>
+    </location>
+    <price>
+      <value>25000000</value>
+      <currency>RUB</currency>
+    </price>
+    <area>
+      <value>26.4</value>
+      <unit>кв.м</unit>
+    </area>
+    <floor>2</floor>
+    <floors-total>4</floors-total>
+    <ceiling-height>3.2</ceiling-height>
+    <image>https://drobotmax.github.io/metry-feeds/photos/ul_bolshaya_tatarskaya_d_20_str_2_kv_18_5328a2/photo_01.jpg</image>
+    <image>https://drobotmax.github.io/metry-feeds/photos/ul_bolshaya_tatarskaya_d_20_str_2_kv_18_5328a2/photo_02.jpg</image>
+    <image>https://drobotmax.github.io/metry-feeds/photos/ul_bolshaya_tatarskaya_d_20_str_2_kv_18_5328a2/photo_03.jpg</image>
+    <image>https://drobotmax.github.io/metry-feeds/photos/ul_bolshaya_tatarskaya_d_20_str_2_kv_18_5328a2/photo_04.jpg</image>
+    <image>https://drobotmax.github.io/metry-feeds/photos/ul_bolshaya_tatarskaya_d_20_str_2_kv_18_5328a2/photo_05.jpg</image>
+    <image>https://drobotmax.github.io/metry-feeds/photos/ul_bolshaya_tatarskaya_d_20_str_2_kv_18_5328a2/photo_06.jpg</image>
+    <image>https://drobotmax.github.io/metry-feeds/photos/ul_bolshaya_tatarskaya_d_20_str_2_kv_18_5328a2/photo_07.jpg</image>
+    <image>https://drobotmax.github.io/metry-feeds/photos/ul_bolshaya_tatarskaya_d_20_str_2_kv_18_5328a2/photo_08.jpg</image>
+    <description>Готовый объект в историческом центре Москвы. Дом сдан, отдельный кадастровый номер, право собственности подтверждено (ЕГРН).
+
+- Площадь: 26.4 м² (общая)
+- Потолки: 3.2 м
+- Этаж: 2 из 4
+- Метро: Новокузнецкая (Замоскворечье)
+- Статус: Сдан
+
+Локация в центре Москвы с устойчивым арендным спросом. Поможем с подбором и оформлением сделки.
+
+Телефон: 8 495 843-53-81</description>
+    <sales-agent>
+      <organization>Метры</organization>
+      <phone>+74958435381</phone>
+      <category>агентство</category>
+      <email>metry.moscow@yandex.ru</email>
+    </sales-agent>
+  </offer>
+  <offer internal-id="ul_bolshaya_tatarskaya_d_20_str_2_kv_18_5328a2_studiya_6">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-06-23T00:00:00+00:00</creation-date>
+    <studio>true</studio>
+    <location>
+      <country>Россия</country>
+      <locality-name>Москва</locality-name>
+      <address>ул. Большая Татарская, д. 20, стр. 2, кв. 18</address>
+      <apartment>18</apartment>
+      <latitude>55.7401563</latitude>
+      <longitude>37.632637</longitude>
+      <metro>
+        <name>Новокузнецкая</name>
+      </metro>
+    </location>
+    <price>
+      <value>20000000</value>
+      <currency>RUB</currency>
+    </price>
+    <area>
+      <value>18.6</value>
+      <unit>кв.м</unit>
+    </area>
+    <floor>2</floor>
+    <floors-total>4</floors-total>
+    <ceiling-height>3.2</ceiling-height>
+    <image>https://drobotmax.github.io/metry-feeds/photos/ul_bolshaya_tatarskaya_d_20_str_2_kv_18_5328a2/photo_01.jpg</image>
+    <image>https://drobotmax.github.io/metry-feeds/photos/ul_bolshaya_tatarskaya_d_20_str_2_kv_18_5328a2/photo_02.jpg</image>
+    <image>https://drobotmax.github.io/metry-feeds/photos/ul_bolshaya_tatarskaya_d_20_str_2_kv_18_5328a2/photo_03.jpg</image>
+    <image>https://drobotmax.github.io/metry-feeds/photos/ul_bolshaya_tatarskaya_d_20_str_2_kv_18_5328a2/photo_04.jpg</image>
+    <image>https://drobotmax.github.io/metry-feeds/photos/ul_bolshaya_tatarskaya_d_20_str_2_kv_18_5328a2/photo_05.jpg</image>
+    <image>https://drobotmax.github.io/metry-feeds/photos/ul_bolshaya_tatarskaya_d_20_str_2_kv_18_5328a2/photo_06.jpg</image>
+    <image>https://drobotmax.github.io/metry-feeds/photos/ul_bolshaya_tatarskaya_d_20_str_2_kv_18_5328a2/photo_07.jpg</image>
+    <image>https://drobotmax.github.io/metry-feeds/photos/ul_bolshaya_tatarskaya_d_20_str_2_kv_18_5328a2/photo_08.jpg</image>
+    <description>Готовый объект в историческом центре Москвы. Дом сдан, отдельный кадастровый номер, право собственности подтверждено (ЕГРН).
+
+- Площадь: 18.6 м² (общая)
+- Потолки: 3.2 м
+- Этаж: 2 из 4
+- Метро: Новокузнецкая (Замоскворечье)
+- Статус: Сдан
+
+Локация в центре Москвы с устойчивым арендным спросом. Поможем с подбором и оформлением сделки.
+
+Телефон: 8 495 843-53-81</description>
+    <sales-agent>
+      <organization>Метры</organization>
+      <phone>+74958435381</phone>
+      <category>агентство</category>
+      <email>metry.moscow@yandex.ru</email>
+    </sales-agent>
+  </offer>
   <offer internal-id="devyatkin_per_d_2_kv_8_e05b2b_studiya_6">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-06-15T00:00:00+00:00</creation-date>
+    <creation-date>2026-06-23T00:00:00+00:00</creation-date>
     <studio>true</studio>
     <location>
       <country>Россия</country>
@@ -1069,7 +1393,7 @@
       </metro>
     </location>
     <price>
-      <value>19500000</value>
+      <value>20200000</value>
       <currency>RUB</currency>
     </price>
     <area>
